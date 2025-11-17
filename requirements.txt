@@ -1,0 +1,4 @@
+httpx
+aiosqlite
+python-telegram-bot
+nest-asyncio
